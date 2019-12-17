@@ -4,7 +4,7 @@
     z-index: 1;
     top: 20px;
     left: 10px;
-    background: lightslategray;
+    background: lightgray;
     overflow-x: hidden;
     padding: 8px 0;
 }
@@ -18,7 +18,7 @@
 }
 
 .sidenav a:hover {
-    color: #064579;
+    color: #ffffff;
 }
 
 .main {
