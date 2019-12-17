@@ -203,4 +203,6 @@ input {
 .pom {
     font-size: 17px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: dashed;
+    padding: 10px 15px;
 }
